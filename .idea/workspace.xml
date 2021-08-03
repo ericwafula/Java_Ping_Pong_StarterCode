@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fe51d8c-7a26-4d1d-a5ec-e91ad80e600f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/models/PingPong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/models/PingPong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627934279621</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added space">
+      <created>1627934980204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1627934980204</updated>
+    </task>
+    <task id="LOCAL-00003" summary="removed space">
+      <created>1627935092983</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1627935092983</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,7 +126,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="added space" />
+    <MESSAGE value="removed space" />
+    <option name="LAST_COMMIT_MESSAGE" value="removed space" />
   </component>
   <component name="masterDetails">
     <states>
